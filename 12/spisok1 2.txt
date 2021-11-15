@@ -1,0 +1,9 @@
+Max ; 59 ; ama[@gmail.com ; Male
+Sashko ; 10 ; sa@gmail.com ; Male
+Kate ; 52 ; kate.k.v@gmail.com ; Female
+Irina ; 96 ; gulyanich.k.v@gmail.com ; Female
+Emanuel ; 29 ; ema@gmail.com ; Male
+Kelvin ; 24 ; kel@gmil.com ; Female
+Basyl ; 33 ; vasya@gmai.com ; Male
+Valentin ; 33 ; valik@gmail.com ; Male
+Istvan ; 24 ; stepan@gmil.com ; Male

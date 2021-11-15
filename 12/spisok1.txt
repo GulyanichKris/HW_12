@@ -1,0 +1,7 @@
+Andrew ; 45 ; and@gmail.com ; Male
+Piter ; 13 ; pit@gmail.com ; Male
+Natali ; 88 ; nata.k.v@gmail.com ; Female
+Irina ; 56 ; gulyanich.k.v@gmail.com ; Female
+Antuan ; 77 ; antony@gmail.com ; Male
+Kelvin ; 24 ; kel@gmil.com ; Female
+Basyl ; 33 ; vasya@gmai.com ; Male
