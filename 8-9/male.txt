@@ -1,5 +1,0 @@
-Petro; 47
-Paul; 19
-John; 37
-David; 45
-Arsen; 22
