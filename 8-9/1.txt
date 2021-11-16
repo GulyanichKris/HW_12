@@ -1,0 +1,9 @@
+Name;Surname;Age;Sex
+Alexandr;Petrov;12;Male
+Ivan;Ivanov;14;Male
+Petro;Petrovich;20;Male
+Olga;Petrovna;24;Female
+Irina;Olegovich;24;Female
+Anna;Khakin;10;Female
+Michael;Circle;19;Male
+John;Brown;39;Male
