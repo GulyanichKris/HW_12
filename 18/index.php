@@ -1,5 +1,7 @@
 <?php
 
+namespace Gulyanich;
+
 abstract class Figure {
 
     abstract public function getSquare ();
